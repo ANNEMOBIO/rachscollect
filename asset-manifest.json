@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rachscollect/static/css/main.836be7d0.css",
+    "main.js": "/rachscollect/static/js/main.4c35a087.js",
+    "static/js/453.2ad55b3e.chunk.js": "/rachscollect/static/js/453.2ad55b3e.chunk.js",
+    "static/media/re.jpg": "/rachscollect/static/media/re.fdf7dab91a5631085a20.jpg",
+    "static/media/ri.jpg": "/rachscollect/static/media/ri.df1ed6c873d88ef8b418.jpg",
+    "static/media/ro.jpg": "/rachscollect/static/media/ro.3d31f1b476e4423122d3.jpg",
+    "static/media/ry.jpg": "/rachscollect/static/media/ry.692569f32760b27fb265.jpg",
+    "static/media/ra.jpg": "/rachscollect/static/media/ra.e3eb93dce6793bbe1382.jpg",
+    "static/media/rz.jpg": "/rachscollect/static/media/rz.371a01cd54d39c085954.jpg",
+    "static/media/ru.jpg": "/rachscollect/static/media/ru.90d6b94251fb9b0dbcfe.jpg",
+    "index.html": "/rachscollect/index.html",
+    "main.836be7d0.css.map": "/rachscollect/static/css/main.836be7d0.css.map",
+    "main.4c35a087.js.map": "/rachscollect/static/js/main.4c35a087.js.map",
+    "453.2ad55b3e.chunk.js.map": "/rachscollect/static/js/453.2ad55b3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.836be7d0.css",
+    "static/js/main.4c35a087.js"
+  ]
+}
